@@ -38,7 +38,7 @@ This repo gives you that.
 
 ```bash
 ./run-local-server.sh
-
+```
 
 You should see:
 
